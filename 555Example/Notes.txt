@@ -1,0 +1,12 @@
+Schematic Parts are near:
+C:\Users\Public\Documents\Altium\AD14\Library
+
+This project is located at:
+C:\Users\Isaias\Documents\AltiumProjects
+
+This is the example of creation of the 555 timer IC from scratch
+- Schematic
+- Component Creation
+  - footprint pcb library
+  - schematic component library
+- Printed Circuit Board

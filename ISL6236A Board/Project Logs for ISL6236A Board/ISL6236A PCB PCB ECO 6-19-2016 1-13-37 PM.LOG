@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=POK2 Pin=U1-14
+Added Pin To Net: NetName=EN1 Pin=U1-14
+Change Net Name : Old Net Name=NETLABEL23 New Net Name=OUT2

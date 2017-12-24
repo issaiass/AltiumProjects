@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=OUT1 Pin=L1-1
+Added Pin To Net: NetName=PHASE1 Pin=L1-2
+Added Pin To Net: NetName=PHASE2 Pin=L2-1
+Added Pin To Net: NetName=NETLABEL23 Pin=L2-2

@@ -1,0 +1,18 @@
+Added Component: Designator=IC?(DIP-LM555)
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-2
+Added Pin To Net: NetName=VCC9 Pin=IC?-4
+Added Pin To Net: NetName=NetC3_2 Pin=IC?-6
+Added Pin To Net: NetName=VCC9 Pin=IC?-8
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=IC?-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetIC?_3 Pin=IC?-3
+Added Pin To Net: NetName=NetIC?_3 Pin=R3-2
+Added Net: Name=NetIC?_3
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Pin To Net: NetName=NetIC?_7 Pin=R1-1
+Added Pin To Net: NetName=NetIC?_7 Pin=R2-2
+Added Net: Name=NetIC?_7
+Added Member To Class: ClassName=TimedCircuit Member=Component IC? LM555-DIP

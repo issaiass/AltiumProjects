@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=IC1-2
+Removed Pin From Net: NetName=VCC9 Pin=IC1-4
+Removed Pin From Net: NetName=NetC3_2 Pin=IC1-6
+Removed Pin From Net: NetName=VCC9 Pin=IC1-8
+Removed Member From Class: ClassName=TimedCircuit Member=IC1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1

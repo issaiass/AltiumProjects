@@ -1,0 +1,315 @@
+*************************************************************
+FileName = ISL6236A PCB.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1 [Top Layer]
+      File : ISL6236A PCB.GTL
+
+    Adding Layer      : L1 [Top Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L2 [GND]
+      File : ISL6236A PCB.GP1
+
+    Adding Layer      : L2 [GND]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : L3 [Int 1]
+      File : ISL6236A PCB.G1
+
+    Adding Layer      : L3 [Int 1]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D17
+    D18
+    D19
+    D20
+    D23
+*************************************************************
+
+*************************************************************
+Generating : L4 [Int 2]
+      File : ISL6236A PCB.G2
+
+    Adding Layer      : L4 [Int 2]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D17
+    D18
+    D19
+    D20
+    D23
+    D29
+*************************************************************
+
+*************************************************************
+Generating : L5 [GND]
+      File : ISL6236A PCB.GP2
+
+    Adding Layer      : L5 [GND]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : L6 [Bottom Layer]
+      File : ISL6236A PCB.GBL
+
+    Adding Layer      : L6 [Bottom Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+    D23
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ISL6236A PCB.GPB
+
+    Adding Layer      : L6 [Bottom Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ISL6236A PCB.GPT
+
+    Adding Layer      : L1 [Top Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ISL6236A PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D21
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ISL6236A PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1 [Top Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ISL6236A PCB.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1 [Top Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ISL6236A PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L6 [Bottom Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ISL6236A PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6 [Bottom Layer]
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ISL6236A PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D21
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ISL6236A PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ISL6236A PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : ISL6236A PCB.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D21
+*************************************************************
+
